@@ -1,5 +1,5 @@
 # Classification-Homework
-Credit Risk Ensemble notebook
+## Credit Risk Ensemble notebook
 ### Final Questions
 
 1. Which model had the best balanced accuracy score?
@@ -21,7 +21,7 @@ Credit Risk Ensemble notebook
     total_pymnt: (0.05883806887524815),
     total_pymnt_inv: (0.05625613759225244).
 
-    Credit Risk Resampling
+    ## Credit Risk Resampling notebook
     # Final Questions
 
 1. Which model had the best balanced accuracy score?
