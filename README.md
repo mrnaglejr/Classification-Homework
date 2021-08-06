@@ -22,7 +22,7 @@
     total_pymnt_inv: (0.05625613759225244).
 
     ## Credit Risk Resampling notebook
-    # Final Questions
+    ### Final Questions
 
 1. Which model had the best balanced accuracy score?
 
